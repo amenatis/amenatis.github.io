@@ -1,4 +1,4 @@
-{% highlight posh %}
+{% highlight powershell %}
 Function Global:Trace-Route {
     [CmdletBinding()]
     param(
