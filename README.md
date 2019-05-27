@@ -1,3 +1,4 @@
+{% highlight posh %}
 Function Global:Trace-Route {
     [CmdletBinding()]
     param(
