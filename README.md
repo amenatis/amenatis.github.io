@@ -1,4 +1,4 @@
-{% highlight powershell %}
+```powershell
 Function Global:Trace-Route {
     [CmdletBinding()]
     param(
@@ -92,7 +92,7 @@ Function Global:Trace-Route {
     $Return.PsTypeNames.Insert(0,'emmToolSet.TraceRoute')
     return $Return
 }
-{% endhighlight %}
+```
 
 
 
