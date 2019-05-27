@@ -30,7 +30,7 @@ url: "" # the base hostname & protocol for your site, e.g. https://amenatis.gith
 github_username:  amenatis
 
 # Build settings
-theme: minima
+theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
 
